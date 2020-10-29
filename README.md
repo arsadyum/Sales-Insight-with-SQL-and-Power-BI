@@ -12,3 +12,4 @@
 There are few ways to collect data First, we can use the excel files or import the data from (OLTP - MySQL server) to OLAP (data wearhouse) and connect the wearhouse to POWER BI to create the dashboard. 
 
 ![alt text](https://github.com/arsadyum/Sales-Insight-with-Power-BI/blob/main/Power%20BI%20project%20image%201.JPG)
+
