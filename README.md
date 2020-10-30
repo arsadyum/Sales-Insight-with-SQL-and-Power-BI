@@ -13,4 +13,11 @@ There are few ways to collect data First, we can use the excel files or import t
 
 ![alt text](https://github.com/arsadyum/Sales-Insight-with-Power-BI/blob/main/Power%20BI%20project%20image%201.JPG)
 
-Accessing MySQL using Power BI get data icon ( server: localhost, database: sales) (user:root, password: ********) 
+# Steps to complete the Power BI sales Data Insight project 
+
+### Access Data: Accessing MySQL using Power BI get data icon ( server: localhost, database: sales) (user:root, password: ********)
+### Load Selected data 
+### Build a data model using star schema (Fact & Dimension table) 
+
+![alt text](https://github.com/arsadyum/Sales-Insight-with-Power-BI/blob/main/Star%20Scema%20data%20model.JPG)
+
