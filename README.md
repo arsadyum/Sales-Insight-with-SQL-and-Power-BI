@@ -13,3 +13,4 @@ There are few ways to collect data First, we can use the excel files or import t
 
 ![alt text](https://github.com/arsadyum/Sales-Insight-with-Power-BI/blob/main/Power%20BI%20project%20image%201.JPG)
 
+Accessing MySQL using Power BI get data icon ( server: localhost, database: sales) (user:root, password: ********) 
