@@ -34,3 +34,17 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 ## Show total revenue in year 2020 in Kanpur
 
 SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark005";
+
+# Check for duplicates with below queries 
+SELECT DISTINCT(transactions.currency) from transactions;
+
+SELECT count(*) from transactions where transactions.currency = 'INR\r' ;
+
+SELECT count(*) from transactions where transactions.currency = 'INR';
+
+SELECT count(*) from transactions where transactions.currency = 'USD';
+SELECT count(*) from transactions where transactions.currency = 'USD\r';
+
+select * from transactions where transactions.currency = 'USD' or transactions.currency = 'USD\r';
+
+select * from transactions where transactions.currency = 'INR' or transactions.currency = 'INR\r'; 
