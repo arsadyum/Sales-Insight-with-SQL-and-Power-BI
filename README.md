@@ -29,4 +29,4 @@ There are few ways to collect data First, we can use the excel files or import t
 ## Visualizing key insights on Power BI report 9 see below) 
 
 
-![alt text](https://github.com/arsadyum/Sales-Insight-with-SQL-and-Power-BI/blob/main/Star%20Scema%20data%20model.JPG)
+![alt text](https://github.com/arsadyum/Sales-Insight-with-SQL-and-Power-BI/blob/main/Sales%20Insight%20Power%20BI%20.JPG)
