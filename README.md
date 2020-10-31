@@ -21,3 +21,12 @@ There are few ways to collect data First, we can use the excel files or import t
 
 ![alt text](https://github.com/arsadyum/Sales-Insight-with-Power-BI/blob/main/Star%20Scema%20data%20model.JPG)
 
+# Intial Data Transforming and Loading
+## Remove Unnecessery Rows ( 0 & -1 sales amount) and Collumns
+## Remove Duplicates 
+## Add collumns using formula ( converting sales amount from INR to USD) 
+## Rounding the values and create measures 
+## Visualizing key insights on Power BI report 9 see below) 
+
+
+![alt text](https://github.com/arsadyum/Sales-Insight-with-Power-BI/blob/main/Sales%20Insight%20Power%20BI%20.JPG)
